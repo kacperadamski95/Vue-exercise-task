@@ -1,7 +1,6 @@
 :root {
     --background-color--main: #FFFFFF;
     --font-color-p: #818992;
-    --logos__background-color: ;
     --color--black: #000000;
     --color--white: #FFFFFF;
     --color--blue: #0046cb;
@@ -11,17 +10,12 @@
     --font-size__h3: 1.8rem;
     --font-size--base: 1.6rem;
     --font-size__p: 1.6rem;
-    --font-size__largest: 3.6rem;
-    --font-weight--bold: 700;
+    --font-size--largest: 3.6rem;
     --font-weight--normal: 400;
-    --font-weight--light: 300;
     --space--xs: 0.5rem;
     --space--s: 1rem;
     --space--m: 1.5rem;
     --space--l: 2rem;
     --space--xl: 2.5rem;
     --space--xxl: 3rem;
-    --space--xxxl: 3.5rem;
-    --space--xxxxl: 4rem;
-
 }
